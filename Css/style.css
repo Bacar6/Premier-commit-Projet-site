@@ -2,8 +2,19 @@ body {
     background-color: silver;
 }
 
+nav {
+	position: fixed;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding: 15px 50px;
+	background: whitesmoke;
+	box-shadow: inset 0px -1px 0px;
+
+}
+
 img {
-    width: 100px;
+    width: 20px;
 }
 
 
