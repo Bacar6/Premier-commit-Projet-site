@@ -22,11 +22,11 @@
 
   <a href="index.html" title="accueil">Accueil</a>
 
-  <a href="produits.html" title="v produits">Produits</a>
+  <a href="produits.php" title="v produits">Produits</a>
 
-  <a href="services.html" title="services">Services</a>
+  <a href="services.php" title="services">Services</a>
 
-  <a href="contact.html" title="contact">Contact</a>
+  <a href="contact.php" title="contact">Contact</a>
 
 	</nav>
 
