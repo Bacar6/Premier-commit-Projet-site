@@ -1,6 +1,22 @@
-h1 {
-    color: rgb(228, 10, 10);
+nav,a {
+    color: rgb(10, 17, 228);
+		text-decoration: none;
+		text-align: center;
 }
+
+h1 ,p {
+	font-weight: lighter;
+	font-family: "Arya";
+	text-align: justify;
+}
+
+h1 {
+	font-weight: lighter;
+	font-family: "Arya";
+	text-align: justify;
+	text-decoration: underline;
+}
+
 
 
 
