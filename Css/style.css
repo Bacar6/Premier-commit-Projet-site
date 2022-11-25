@@ -1,23 +1,11 @@
-nav,a {
-    color: rgb(10, 17, 228);
-		text-decoration: none;
-		text-align: center;
+h1{
+  text-align: center;
 }
 
-h1 ,p {
-	font-weight: lighter;
-	font-family: "Arya";
-	text-align: justify;
+img{ 
+  width: 20%;
+  margin-left: 50px;
 }
-
-h1 {
-	font-weight: lighter;
-	font-family: "Arya";
-	text-align: justify;
-	text-decoration: underline;
-}
-
-
 
 
 
